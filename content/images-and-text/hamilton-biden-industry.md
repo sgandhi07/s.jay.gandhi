@@ -4,7 +4,7 @@ description: "Radical Hamilton to Biden: Adopt the Green New Deal! It's the (Ind
 date: 2020-09-17T20:27:30-04:00
 ---
 
-
+### Alexander Hamilton to Radical Hamilton
 
 Alexander Hamilton wore many hats, and among them is the founder of AMERICAN school of economics. In lieu of this fact, Hamilton's magnum opus, Report on the Subject of Manufactures, is criminally under-examined, according to Christian Parenti. To address this shortcoming, Parenti  successfully and dutifully examines the report in Radical Hamilton (Verso, 2020); and leaves us with a few ideas to let ferment, for contemporary use.
 
@@ -13,6 +13,8 @@ Alexander Hamilton wore many hats, and among them is the founder of AMERICAN sch
 Parenti's work shows us how Alexander Hamilton, the statesman's actions were supported by Alexander Hamilton, the thinker and theorist. Hamilton wrote treatises on his economic and state-building ideas, and the scaffolding for his ideas is the MILITARY-INDUSTRIAL-BANKING locus. Hamiltom consolidated a group of rag-tag states into a nation of states, called the United States of America by: forming a National Bank and using its currency to nurture a domestic industrial economy, which would then bolster the military. The military was critically needed, during his time, to stave off attacks from across the pond and Indigineous populations, from whom they stole and ravaged the land. This network of banking, military, and economy(industry) was to be actively configured and maintained by the State. Today's laissez-faire, neoliberal, free trade, free market principles are absolutely not what the AMERICAN founder of economics prescribed, especially not in a time of crises.
 
 Parenti notes that it is (almost) always in a time of crisis and upheavals that certain ideas germinate into blueprints, which then turn to practices, institutions, and norms, and that is why I find this book tangentially germane.
+
+### CATASTROPHIES AND ELECTION YEAR
 
 {{< figure src="../portland_urban_forest.png" link="../portland_urban_forest.png" width="100%" caption="*Urban Forest in Portland, Oregon (2019)*" target="_blank" >}}
 
@@ -28,6 +30,8 @@ Biden, we VOTE and CALL on you to adopt the Green New Deal as part of the party 
 There is absolutely no reason that the Democrats are dragging their feed when it comes to adopting the Green New Deal platform, AND IF THEY LOSE THE ELECTORAL COLLEGE ELECTION-- yes, voter suppression, state-sanctioned right-wing, fascist violence, and contested ballots will be a factor, BUT FAILURE TO EMBRACE THE GREEN NEW DEAL will be an Ace Of Spades the Democrats refused to play when all and everything was at stakes.
 
 We are in a catastrophic crisis and the Democratic Party refuses to acknowledge and respond to the depth and extent of it.
+
+### RADICAL HAMILTON TO BIDEN: "ADOPT THE GREEN NEW DEAL. IT'S THE (INDUSTRIAL) ECONOMY, STUPID!"
 
 This crisis can be an opportunity though. A once in a lifetime opportunity at this point.
 The Green New Deal offers an opportunity to re-shape and re-calibrate the military, industry, and state banking nexus, to serve current needs, using its founder's, Hamilton's, own economic logic and principles. After reading Parenti, I realized that the military-industrial complex is not new. It is baked into our country's foundation, but because it is baked in, we can leverage the logic for our own ends.
