@@ -1,7 +1,7 @@
 ---
-title: "Radical Hamilton to Biden: 'Adopt the Green New Deal. It's the (Industrial) Economy, Idiot.'"
-draft: false
-
+title: "Radical Hamilton, Biden, and the Green New Deal"
+description: "Radical Hamilton to Biden: Adopt the Green New Deal! It's the (Industrial) Economy, Stupid."
+date: 2020-09-17T20:27:30-04:00
 ---
 
 Alexander Hamilton wore many hats, and among them is the founder of AMERICAN school of economics. In lieu of this fact, Hamilton's magnum opus, Report on the Subject of Manufactures, is criminally under-examined, according to Christian Parenti. To address this shortcoming, Parenti  successfully and dutifully examines the report in Radical Hamilton (Verso, 2020); and leaves us with a few ideas to let ferment, for contemporary use.
