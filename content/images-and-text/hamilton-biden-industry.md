@@ -1,12 +1,47 @@
 ---
-title: "Radical Hamilton, Biden, and the Green New Deal"
-description: "Radical Hamilton to Biden: Adopt the Green New Deal! It's the (Industrial) Economy, Stupid."
+title: "BIDEN, ALEXANDER HAMILTON (GREEN NEW DEAL), RALPH NADER (CAMPAIGN ADVERTIEMENT)"
 date: 2020-09-17T20:27:30-04:00
+draft: true
 ---
 
-### Alexander Hamilton to Radical Hamilton
 
-Alexander Hamilton wore many hats, and among them is the founder of AMERICAN school of economics. In lieu of this fact, Hamilton's magnum opus, Report on the Subject of Manufactures, is criminally under-examined, according to Christian Parenti. To address this shortcoming, Parenti  successfully and dutifully examines the report in Radical Hamilton (Verso, 2020); and leaves us with a few ideas to let ferment, for contemporary use.
+{{< figure src="../portland_urban_forest.png" link="../portland_urban_forest.png" width="100%" caption="*Urban Forest in Portland, Oregon (2019)*" target="_blank" >}}
+
+### THIS YEAR, 2020 A.D.
+
+<a name="aforementioned">This year,</a> wildfires are engulfing an unprecdented amount of land in western America; hurricanes are increasing in extreme numbers in the Atlantic Ocean; the global pandemic is showing signs of second-wave resurgence; and a fascist, genocidal president is promising to accelerate this nightmare and establish it as the new normal.
+
+<!-- 
+{{< figure src="../influenza_wave_chart.png" link="" width="0%" caption="*Source: https://miro.medium.com/max/700/0*aXAS6kHo9JDRi8sQ*" target="_blank" >}} -->
+
+
+This year we also have an election -- **VOTE FOR BIDEN.**
+
+
+A MILLION x TRILLION PERCENT, Biden is not the ideal candidate. But he is what we must choose in face of racist facism. Linda Sarour said it most convincingly: "we are voting to choose our opponenet"-- beyond semantics, in actual reality, who would you rather have: a guy who has embraced Green New Deal in everything but the name, or a totalitarian head of state who has set-up concentration camps, separeated and jailed children, and enabled forced-sterilization. 
+
+
+Who do you want leading the nation as we live through this [new, aforementioned normal.](#aforementioned) Namely, runaway climate change and global pandemic.
+
+Don't get me wrong, they are both misogynistic skeezebags. However, there are degress to things, and that MAJORILY applies to this right now. I know this is a point of contention for many, so if you want to discuss this further or want me to lay out my reasoning, hit me up.
+
+{{< figure src="../vote_for_biden.png" link="../vote_for_biden.png" width="100%" caption="*Vote For Biden: Vote To Bide Our Time.*" target="_blank" >}}
+
+I hope that Joe Biden wins, and Inshallah we see him sworn in on January 20, 2021. After that, it will be up to us to push, cajole, and hold him accountable to the promises he made. We have to make sure he listens to our Civil Rights Movements, the movement for Black Lives, by continuing to support the movement finanically, and answering their calls to protest, marches, boycotts, etc,.
+
+In this post, I want to explore the promise of a Green New Deal, or the "Green dream of whatever." 
+
+
+
+{{< figure src="../next_city_article.png" link="https://nextcity.org/daily/entry/the-industrial-sector-is-at-the-heart-of-a-green-new-deal" width="50%" caption="*Click Image for Article*" target="_blank" >}}
+
+### INDUSTRY and HAMILTONIAN ECONOMICS
+
+The Op-Ed's headline distills the massive economic impact that a Green New Deal could have. It could re-invigorate American manufacturing and industry. 
+
+Alexander Hamilton, among many things, is the founder of AMERICAN school of economics. He not only wrote treatises on his economic and state-building ideas; but as our First Treasurer, he created our national banking institutions and gave the government signficiant power over our commericial sector (aka the Economy). Today's laissez-faire, neoliberal, free trade, free market economic ideology is absolutely not what the FOUNDER of American economics prescribed, especially not in a time of crises.
+
+In his book *Radical Hamilton: Economic Lessons from a Misunderstood Founder* Christian Parenti examines Alexander Hamilton, the economic thinker, and his criminally under-examined *magnum opus*, Report on the Subject of Manufactures. P
 
 {{< figure src="../radical_hamilton_christian_parenti.png" link="https://www.versobooks.com/books/3186-radical-hamilton" width="70%" caption="*Radical Hamilton: Economic Lessons from a Misunderstood Founder by Christian Parenti. Let me know if you want to borrow.*" target="_blank" >}} 
 
@@ -14,16 +49,8 @@ Parenti's work shows us how Alexander Hamilton, the statesman's actions were sup
 
 Parenti notes that it is (almost) always in a time of crisis and upheavals that certain ideas germinate into blueprints, which then turn to practices, institutions, and norms, and that is why I find this book tangentially germane.
 
-### CATASTROPHIES AND ELECTION YEAR
-
-{{< figure src="../portland_urban_forest.png" link="../portland_urban_forest.png" width="100%" caption="*Urban Forest in Portland, Oregon (2019)*" target="_blank" >}}
 
 
-In the United States we are witnessing unprecedented wildfires raging across the American west coast; extreme increase in quantity of hurricanes in the American south; wildlife in "catastrophic decline" as exemplified by the mass death of migratory birds in American southwest; a global pandemic showing signs of second-wave resurgence; and our inability to act in response to livelihood decimation.
-
-This year we also have an election coming up-- VOTE FOR BIDEN.
-
-{{< figure src="../vote_for_biden.png" link="../vote_for_biden.png" width="100%" caption="*Vote For Biden: Vote To Bide Our Time. For definitely I was high.*" target="_blank" >}}
 <!-- 
 Biden, we VOTE and CALL on you to adopt the Green New Deal as part of the party platform. The Green New Deal or according to Pelosi, "Green dream of whatever" is a dream. It is the People's revision of the American Dream, and we ASK you that you let us dream, instead of leaving us to live this apocalyptic nightmare.
 
