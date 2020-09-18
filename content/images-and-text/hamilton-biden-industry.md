@@ -24,7 +24,7 @@ In the United States we are witnessing unprecedented wildfires raging across the
 This year we also have an election coming up-- VOTE FOR BIDEN.
 
 {{< figure src="../vote_for_biden.png" link="../vote_for_biden.png" width="100%" caption="*Vote For Biden: Vote To Bide Our Time. For definitely I was high.*" target="_blank" >}}
-
+<!-- 
 Biden, we VOTE and CALL on you to adopt the Green New Deal as part of the party platform. The Green New Deal or according to Pelosi, "Green dream of whatever" is a dream. It is the People's revision of the American Dream, and we ASK you that you let us dream, instead of leaving us to live this apocalyptic nightmare.
 
 There is absolutely no reason that the Democrats are dragging their feed when it comes to adopting the Green New Deal platform, AND IF THEY LOSE THE ELECTORAL COLLEGE ELECTION-- yes, voter suppression, state-sanctioned right-wing, fascist violence, and contested ballots will be a factor, BUT FAILURE TO EMBRACE THE GREEN NEW DEAL will be an Ace Of Spades the Democrats refused to play when all and everything was at stakes.
@@ -46,4 +46,4 @@ Why the hoop-la over industry and manufacturing? Because we need to be able to b
 
 Biden, my guy, you have the historical backing to go for it. Our first treasurer, wrote heaps upon heaps, BEGGING his colleagues to give the State power to implement the policies, we are now BEGGING you to make use of. But you need to find the courage within yourself to face reality and take action with the powers that we, the people, will definitely bestow upon you, IF YOU ADOPT THE MOTHERLUVIN' GREEN NEW DEAL. Don't be like Hillary and refuse to meet us even close to half-way, because A LOT of Americans have been left with nothing to lose, so your winning or losing is meh.
 
-It is high time for YOUR party to embrace a platform that will pull the people out of the static inertia of hopelessness and reinvigorate them a re-designed, inclusive, New American Dream AKA Green New Deal.
+It is high time for YOUR party to embrace a platform that will pull the people out of the static inertia of hopelessness and reinvigorate them a re-designed, inclusive, New American Dream AKA Green New Deal. -->
