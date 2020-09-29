@@ -7,15 +7,17 @@
 
             <!-- Header -->
                 <header id="header">
-                    <div class="logo">
-                        <span class="icon fa-gem"></span>
-                    </div>
+                  <div class="logo">
+                      <a href="/"><span class="icon fa-{{ .Params.Icon | default "gem" }}"></span></a>
+                  </div>
                     <div class="content">
                         <div class="inner">
                             <h1><a href="{{ "/" | relURL }}">Go Home</a></h1>
+                            {{ if .Params.description }}
                             <p>
-                                Nothing to see here
+                                {{ .Params.description }}
                             </p>
+                            {{ end }}
                         </div>
                     </div>
                 </header>

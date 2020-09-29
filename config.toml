@@ -1,5 +1,10 @@
 baseURL = "https://sgandhi07.gitlab.io/s.jay.gandhi"
 languageCode = "en-us"
+author = "Sapana Gandhi"
 title = "S . Jay . Gandhi"
+disableMermaid = false
+customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
 theme = "dimension"
 canonifyURLs = "true"
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
